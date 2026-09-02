@@ -1,0 +1,14 @@
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\bin\Debug\net10.0\AVL_Elias_Hernandez.exe
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\bin\Debug\net10.0\AVL_Elias_Hernandez.deps.json
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\bin\Debug\net10.0\AVL_Elias_Hernandez.runtimeconfig.json
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\bin\Debug\net10.0\AVL_Elias_Hernandez.dll
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\bin\Debug\net10.0\AVL_Elias_Hernandez.pdb
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\AVL_Elias_Hernandez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\AVL_Elias_Hernandez.AssemblyInfoInputs.cache
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\AVL_Elias_Hernandez.AssemblyInfo.cs
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\AVL_Elias_Hernandez.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\AVL_Elias_Hernandez.dll
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\refint\AVL_Elias_Hernandez.dll
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\AVL_Elias_Hernandez.pdb
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\AVL_Elias_Hernandez.genruntimeconfig.cache
+C:\Users\elias\OneDrive\Documentos\tarea elias #2\AVL tarea serie 2\AVL_Elias_Hernandez\obj\Debug\net10.0\ref\AVL_Elias_Hernandez.dll
